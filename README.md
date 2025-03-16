@@ -1,1 +1,2 @@
 # Password-analyser
+Password analysis plays a crucial role in cybersecurity by assessing and enhancing the strength of passwords used to protect sensitive information. It involves evaluating factors such as complexity, length, and uniqueness to identify vulnerabilities. Strong passwords are a fundamental defense against unauthorized access, reducing the risk of data breaches and unauthorized system access.
